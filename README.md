@@ -12,6 +12,8 @@ System.Data.SqlClient
 
 ### Run App
 <img src="/pictures/api.png" title="api"  width="1000">
+<img src="/pictures/api1.png" title="api"  width="1000">
+<img src="/pictures/api2.png" title="api"  width="1000">
 
 
 
