@@ -18,9 +18,17 @@ System.Data.SqlClient
 
 ## Create Frontend Project
 
+### Init project
+```
+npm init vue@latest
+npm install
+npm run dev
+```
+
 ### Run App
 <img src="/pictures/department.png" title="department"  width="1000">
 <img src="/pictures/employee.png" title="employee"  width="1000">
+
 
 
 
